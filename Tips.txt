@@ -1,0 +1,2 @@
+To Run ngrok and access the URL in mobile
+ngrok http 8080 -host-header="localhost:8080"
